@@ -1,8 +1,5 @@
 <!DOCTYPE html>
-<html lang = en-us>
-<head>
-	Welcome
-</head>
+<html>
 <body>
 <h1> Welcome </h1>
 <p> Hello, World! </p>
